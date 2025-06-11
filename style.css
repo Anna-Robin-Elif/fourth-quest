@@ -187,10 +187,10 @@ ul li, ol li {
     }
 
     .box__img {
-      margin-top: -2rem; /* zum entfernen von padding so viel wie padding-top vorher war */
-      margin-left: -2rem;
-      margin-right: -2rem;
-      width: calc(100% + 4rem); /* zieht das Bild auf volle Breite */
+      margin-top: -3rem; /* zum entfernen von padding so viel wie padding-top vorher war */
+      margin-left: -3rem;
+      margin-right: -3rem;
+      width: calc(100% + 6rem); /* zieht das Bild auf volle Breite */
     }
 
 
